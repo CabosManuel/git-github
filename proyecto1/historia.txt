@@ -3,3 +3,6 @@ Esta es la historia de Manuel Cabos.
 Manuel Cabos tiene 22 años y nació en el 2000 en Lima Perú.
 
 Hoy se a dignado a seguir continuando el curso de Git y GitHub que ha dejado aplazado durante meses, intentando pasar por...
+
+[09/04/2023]
+Hoy se tomo más tiempo haciendo gráficos en Mermaid, tal ves más de lo que debería... pero fue divertido :)
