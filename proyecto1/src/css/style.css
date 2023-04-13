@@ -134,7 +134,8 @@ h2 + p { /* Párrafos debajo de un h2 */
 @media (max-width: 720px) {
 
   #container {
-    width: 300px;
+    width: 70%;
+    min-width: 300px;
   }
 
 }
