@@ -13,6 +13,7 @@ html {
 
 header {
   width: 100%;
+  min-width: 300px;
   display: flex;
   padding: 10px 30px ;
   box-shadow: 0px -10px 15px 0px #3b3b3b;
@@ -35,8 +36,8 @@ main {
 
 #container {
   width: 700px;
-  margin: 0 auto;
-  margin-top: 30px;
+  margin: 20px auto;
+  padding: 10px 20px;
   font-size: 1.6rem;
   color: #3b3b3b;
 }
@@ -84,10 +85,12 @@ main {
 #data {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   font-size: 1.4rem;
 }
 
 #date { /* Fecha y tiempo de lectura*/
+  min-width: fit-content;
   color: gray;
 }
 
@@ -128,3 +131,10 @@ h2 + p { /* Párrafos debajo de un h2 */
   margin-left: 30px;
 }
 
+@media (max-width: 720px) {
+
+  #container {
+    width: 300px;
+  }
+
+}
