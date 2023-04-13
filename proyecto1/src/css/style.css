@@ -4,21 +4,39 @@
   margin: 0;
 }
 
-body {
-  text-align: center;
+html {
+  font-size: 62.5%;
   font-family: 'Quicksand', sans-serif;
-  font-size: 16px;
-  /*color: teal;*/
+}
+
+header {
+  width: 100%;
+}
+
+#logo {
+  display: inline-block;
+  font-size: 2.8rem;
+  font-weight: 700;
+}
+
+main {
+  width: 100%;
 }
 
 #container {
-  width: 70%;
-  padding: 1rem;
-  text-align: left;
-  border: 1px solid #5a5a5a;
+  width: 800px;
   margin: 0 auto;
+  margin-top: 30px;
 }
 
 #container h1 {
-  font-size: 32px;
+  font-size: 3.2rem;
+}
+
+#container h2 {
+  font-size: 2.4rem;
+}
+
+#container #post p {
+  font-size: 1.6rem;
 }
