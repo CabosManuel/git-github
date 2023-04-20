@@ -131,6 +131,18 @@ h2 + p { /* Párrafos debajo de un h2 */
   margin-left: 30px;
 }
 
+footer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+}
+
+#credits a {
+  font-weight: 600;
+  color: #239587;
+}
+
 @media (max-width: 720px) {
 
   #container {
