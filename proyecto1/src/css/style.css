@@ -138,6 +138,15 @@ h2 + p { /* Párrafos debajo de un h2 */
   text-decoration: none;
 }
 
+.post-image {
+  width: 256px;
+  margin: 10px auto;
+}
+
+.post-image img {
+  width: 100%;
+}
+
 .reference-list {
   margin-left: 30px;
 }
