@@ -8,3 +8,5 @@ Hoy se a dignado a seguir continuando el curso de Git y GitHub que ha dejado apl
 Hoy se tomo más tiempo haciendo gráficos en Mermaid, tal ves más de lo que debería... pero fue divertido :)
 
 // Prueba para rebase: main 1
+
+// Prueba para rebase: test-rebase 1
