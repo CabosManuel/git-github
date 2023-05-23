@@ -7,10 +7,4 @@ Hoy se a dignado a seguir continuando el curso de Git y GitHub que ha dejado apl
 [09/04/2023]
 Hoy se tomo más tiempo haciendo gráficos en Mermaid, tal ves más de lo que debería... pero fue divertido :)
 
-// Línea N°3 para probar git rebase.
-
-// Línea N°2 para probar git rebase.
-
-// Esta linea es para probar git rebase.
-
-// Línea N°4 para probar git rebase.
+// Prueba para rebase: main 1
