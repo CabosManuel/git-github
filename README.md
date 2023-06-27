@@ -9,3 +9,4 @@ Course content:
 - Professional workflows
 - Multiple working environments in Git
 - Git commands for emergencies
+- Creado por PlatziTeam
