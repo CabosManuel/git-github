@@ -10,3 +10,4 @@ Course content:
 - Multiple working environments in Git
 - Git commands for emergencies
 - Creado por PlatziTeam
+- Incluye ejemplo Windows/Linux/Mac
